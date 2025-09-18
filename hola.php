@@ -1,2 +1,3 @@
 <?php
-echo "Hola Mundillo\n";
+$nombre = "Mundo"
+echo "Hola, {$nombre}\n";
