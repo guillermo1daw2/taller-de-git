@@ -1,3 +1,4 @@
 # Curso de GIT
 
-Desarrollado por Guillermo Fraile
+Desarrollado por Guillermo Fraile, Septiembre 2025
+
